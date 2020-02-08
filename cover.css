@@ -108,3 +108,16 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 1920px 1080px;
+}
+
+.obrazok {
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 25px;
+}
